@@ -1,4 +1,4 @@
-# TAE-Agents# GAIA
+# GAIA
 
 **Un entorno donde los agentes de IA no empiezan de cero cada mañana — y donde lo
 que dicen haber hecho se puede comprobar.**
